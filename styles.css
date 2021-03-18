@@ -18,3 +18,12 @@ img {
 .card-title {
   margin-top: 10px;
 }
+.jumbotron{
+  color: white;
+  background-color: #;
+}
+.col-md-6{
+  float: center;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  box-sizing: border-box;
